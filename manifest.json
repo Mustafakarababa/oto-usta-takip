@@ -1,0 +1,21 @@
+{
+  "name": "Oto Usta Takip Sistemi",
+  "short_name": "Usta Takip",
+  "description": "Müşteri ve araç bakım geçmişi takip uygulaması.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#63b3ed", 
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
